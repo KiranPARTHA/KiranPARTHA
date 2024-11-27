@@ -1,4 +1,4 @@
-# Hi, I'm Kiran Partha! 👋
+# Hi, I'm Kiran 👋
 
 Welcome to my GitHub profile! I'm a passionate Java Fullstack Developer with a keen interest in building robust and scalable web applications. Currently, I'm actively seeking job opportunities to kickstart my career and contribute my skills to a dynamic team.
 
